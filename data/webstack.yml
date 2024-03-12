@@ -112,7 +112,7 @@
         - title: OSINT Framework
           logo: images/logos/producthunt.png
           url: https://osintframework.com/
-          description: OSINT 框架专注于从免费工具或资源收集信息。目的是帮助人们找到免费的 OSINT 资源。其中包含的某些网站可能需要注册或以 $$$ 的价格提供更多数据，但您应该能够免费获得至少一部分可用信息。
+          description: OSINT 框架专注于从免费工具或资源收集信息。目的是帮助人们找到免费的 OSINT 资源。
         - title: 技术员OSINT工具
           logo: images/logos/NEXT.png
           url: https://www.technisette.com/p/tools
