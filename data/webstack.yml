@@ -121,9 +121,9 @@
           logo:
           url: https://www.caseiq.com/resources/101-osint-resources-for-investigators/
           description: 面向调查人员的 OSINT 资源
-        - title: 利器
+        - title: 资源发现工具包
           logo: images/logos/liqi.png
-          url: https://liqi.io/
+          url: https://rr.reuser.biz/
           description: 创造者和他们的工具
         - title: Today
           logo: images/logos/today.png
