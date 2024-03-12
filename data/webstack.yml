@@ -51,13 +51,13 @@
       description: UUID在线生成
     
 
-- taxonomy: 开源情报资源
+- taxonomy: 开源情报
   icon: fa-regular fa-newspaper
   links: 
     - title: 丁爸网
       logo: 
-      url: https://www.dingba.top/
-      description: 人工智能和智能硬件领域的互联网科技媒体
+      url: http://dingba.top/
+      description: 国内资深开源情报专家
     - title: 36kr
       logo: images/logos/36kr.png
       url: https://36kr.com/
