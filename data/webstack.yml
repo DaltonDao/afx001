@@ -107,7 +107,7 @@
 - taxonomy: 情报工具
   icon: fa-regular fa-lightbulb
   list: 
-    - term: 发现产品
+    - term: 情报工具
       links:
         - title: OSINT Framework
           logo: images/logos/producthunt.png
