@@ -104,23 +104,23 @@
       description: UI设计师学习交流社区
     
 
-- taxonomy: 灵感采集
+- taxonomy: 情报工具
   icon: fa-regular fa-lightbulb
   list: 
     - term: 发现产品
       links:
-        - title: Producthunt
+        - title: OSINT Framework
           logo: images/logos/producthunt.png
-          url: https://www.producthunt.com/
-          description: 发现新鲜有趣的产品
-        - title: NEXT
+          url: https://osintframework.com/
+          description: OSINT 框架专注于从免费工具或资源收集信息。目的是帮助人们找到免费的 OSINT 资源。其中包含的某些网站可能需要注册或以 $$$ 的价格提供更多数据，但您应该能够免费获得至少一部分可用信息。
+        - title: 技术员OSINT工具
           logo: images/logos/NEXT.png
-          url: https://next.36kr.com/posts
-          description: 不错过任何一个新产品
-        - title: 少数派
-          logo: images/logos/sspai.png
-          url: https://sspai.com/
-          description: 高品质数字消费指南
+          url: https://www.technisette.com/p/tools
+          description: 情报员使用的工具
+        - title: CaseIQ
+          logo: 
+          url: https://www.caseiq.com/resources/101-osint-resources-for-investigators/
+          description: 面向调查人员的 OSINT 资源
         - title: 利器
           logo: images/logos/liqi.png
           url: https://liqi.io/
