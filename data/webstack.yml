@@ -51,12 +51,12 @@
       description: UUID在线生成
     
 
-- taxonomy: 社区咨询
+- taxonomy: 开源情报资源
   icon: fa-regular fa-newspaper
   links: 
-    - title: 雷锋网
-      logo: images/logos/leiphone.png
-      url: https://www.leiphone.com/
+    - title: 丁爸网
+      logo: 
+      url: https://www.dingba.top/
       description: 人工智能和智能硬件领域的互联网科技媒体
     - title: 36kr
       logo: images/logos/36kr.png
