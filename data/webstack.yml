@@ -125,10 +125,10 @@
           logo: images/logos/liqi.png
           url: https://rr.reuser.biz/
           description: 创造者和他们的工具
-        - title: Today
-          logo: images/logos/today.png
-          url: http://today.itjuzi.com/
-          description: 为身边的新产品喝彩
+        - title: 互联网研究
+          logo: 
+          url: https://www.researchclinic.net/
+          description: 提供互联网研究链接和学习材料
         - title: 小众软件
           logo: images/logos/appinn.png
           url: https://faxian.appinn.com/
