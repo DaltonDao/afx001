@@ -133,6 +133,22 @@
           logo: images/logos/appinn.png
           url: https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=1944271572
           description: 在这里发现更多
+        - title: comskills开源情报工具
+          logo: 
+          url: https://comskills-ukraine.co.uk/resources/osint-toolkit/
+          description: 开源情报 OSINT 工具包将 OSINT 框架与一系列合适的工具相结合。
+        - title: 在线感知开源情报工具箱
+          logo: 
+          url: https://www.aware-online.com/osint-tools/
+          description: 您可以使用我们免费提供的 OSINT 工具。我们不会主动监控您在我们的脚本中输入的信息。
+        - title: 贝宁猫在线调查工具箱
+          logo: images/logos/appinn.png
+          url: https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=1944271572
+          description: 在这里发现更多
+        - title: 贝宁猫在线调查工具箱
+          logo: images/logos/appinn.png
+          url: https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=1944271572
+          description: 在这里发现更多
       
     - term: 界面灵感
       links:
