@@ -150,12 +150,12 @@
           url: https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=1944271572
           description: 在这里发现更多
       
-    - term: 界面灵感
+    - term: AI工具
       links:
-        - title: Pttrns
-          logo: images/logos/Pttrns.png
-          url: https://www.pttrns.com/
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
+        - title: AI工具集
+          logo: 
+          url: https://ai-bot.cn/
+          description: AI工具集成工作站
         - title: Collect UI
           logo: images/logos/CollectUI.png
           url: http://collectui.com/
