@@ -156,11 +156,7 @@
           logo: 
           url: https://ai-bot.cn/
           description: AI工具集成工作站
-        - title: 葫芦娃AI
-          logo: 
-          url: https://huluwaai.com/
-          description: 国内最大AI学习社区
-        - title: Android Niceties
+          - title: Android Niceties
           logo: images/logos/AndroidNiceties.png
           url: https://androidniceties.tumblr.com/
           description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
