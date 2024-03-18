@@ -160,15 +160,7 @@
           logo: images/logos/AndroidNiceties.png
           url: https://androidniceties.tumblr.com/
           description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
-          - title: Android Niceties
-          logo: images/logos/AndroidNiceties.png
-          url: https://androidniceties.tumblr.com/
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
-          - title: Android Niceties
-          logo: images/logos/AndroidNiceties.png
-          url: https://androidniceties.tumblr.com/
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
-      
+               
     - term: 网页灵感
       links:
         - title: Awwwards
