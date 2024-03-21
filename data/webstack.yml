@@ -161,12 +161,12 @@
           url: https://huluwaai.com/
           description: 中国最大的AI学习平台
                         
-    - term: 网页灵感
+    - term: 影音情报
       links:
-        - title: Awwwards
-          logo: images/logos/awwwards.png
-          url: https://www.awwwards.com/
-          description: Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
+        - title: 人人影视
+          logo: 
+          url: https://www.renren.pro/
+          description: 在线影视网站
         - title: CSS Design Awards
           logo: images/logos/CSSDesignAwards.png
           url: https://www.cssdesignawards.com/
